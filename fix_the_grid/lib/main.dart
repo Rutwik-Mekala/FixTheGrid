@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:fix_the_grid/start.dart';
+import 'start.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

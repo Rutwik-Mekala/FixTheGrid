@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:fix_the_grid/Board.dart';
+import 'Board.dart';
 
 class StartPage extends StatelessWidget {
   const StartPage({Key? key}) : super(key: key);

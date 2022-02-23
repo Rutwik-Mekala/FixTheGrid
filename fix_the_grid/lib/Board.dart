@@ -1,9 +1,9 @@
 import 'dart:async';
 
+import 'package:fix_the_grid/GridButton.dart';
 import 'package:fix_the_grid/Title.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'GridButton.dart';
 
 class Board extends StatefulWidget {
   const Board({Key? key}) : super(key: key);
